@@ -50,3 +50,10 @@ Machine
                ├─ PU 10
                └─ PU 11
 ```
+
+# Ideas
+
+Eventually we probably want something similar to https://www.open-mpi.org/projects/hwloc/lstopo.png.
+
+* Try Makie?
+* Or Luxor?
