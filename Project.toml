@@ -1,0 +1,13 @@
+name = "HwlocViz"
+uuid = "94a1edad-e538-49da-9733-548525abff1f"
+authors = ["Carsten Bauer"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
