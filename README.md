@@ -3,6 +3,10 @@
 [![Build Status](https://github.com/crstnbr/HwlocViz.jl/workflows/CI/badge.svg)](https://github.com/crstnbr/HwlocViz.jl/actions)
 [![Coverage](https://codecov.io/gh/crstnbr/HwlocViz.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/crstnbr/HwlocViz.jl)
 
+# Usage
+
+## Plotting the system topology
+
 ```julia
 julia> using HwlocViz
 
@@ -13,6 +17,7 @@ julia> plot_topology("topology.png") # save to file
 
 ![topology](https://user-images.githubusercontent.com/187980/112912936-029c8280-90f9-11eb-890c-021de0a79f09.png)
 
+## Printing the system topology
 
 ```julia
 julia> print_topology()
