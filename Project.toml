@@ -3,6 +3,12 @@ uuid = "94a1edad-e538-49da-9733-548525abff1f"
 authors = ["Carsten Bauer"]
 version = "0.1.0"
 
+[deps]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+GraphRecipes = "bd48cda9-67a9-57be-86fa-5b3c104eda73"
+Hwloc = "0e44f5e4-bd66-52a0-8798-143a42290a1d"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+
 [compat]
 julia = "1.6"
 
